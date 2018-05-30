@@ -1,2 +1,4 @@
-# ud120-Projects
-My take on Intro to Machine Learning by Udacity
+ud120-projects
+==============
+
+Starter project code for students taking Udacity ud120
